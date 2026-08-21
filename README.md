@@ -71,8 +71,5 @@ Contributions and improvements are welcome. Suggested first PRs:
 - Fix filename typos and update README usage
 - Add error handling and logging to the demo scripts
 
-## License
-Choose a license and add a LICENSE file (e.g., MIT, Apache-2.0). If you want, I can add a recommended license file for you.
 
-## Contact
-If you want me to add the README to the repository or open a PR with additional polish (rename files, add .env.example), I can do that—tell me how you'd like me to proceed.
+
